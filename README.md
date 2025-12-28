@@ -14,7 +14,7 @@ O objetivo é demonstrar conhecimentos sólidos em **modelagem de dados**, **int
 
 ---
 
-## 📌 Funcionalidades do Projeto
+##  Funcionalidades do Projeto
 - Cadastro de clientes, funcionários e produtos
 - Registro de vendas e pagamentos
 - Controle automático de estoque via trigger
@@ -23,7 +23,7 @@ O objetivo é demonstrar conhecimentos sólidos em **modelagem de dados**, **int
 
 ---
 
-## 🧱 Estrutura do Banco de Dados
+##  Estrutura do Banco de Dados
 O banco é composto pelas seguintes tabelas:
 
 - clientes
@@ -37,7 +37,7 @@ Relacionamentos implementados com **chaves primárias e estrangeiras**, garantin
 
 ---
 
-## 📂 Estrutura do Repositório
+##  Estrutura do Repositório
 ```
 sistema-gestao-comercial-mysql/
 │
@@ -55,7 +55,7 @@ sistema-gestao-comercial-mysql/
 
 ---
 
-## ▶️ Ordem de Execução dos Scripts
+## Ordem de Execução dos Scripts
 Os scripts devem ser executados **na ordem abaixo**:
 
 1. 01_criacao_banco_tabelas.sql  
@@ -67,17 +67,17 @@ Os scripts devem ser executados **na ordem abaixo**:
 
 ---
 
-## 📊 Exemplos de Consultas Analíticas
+##  Exemplos de Consultas Analíticas
 - Produtos mais vendidos
 - Clientes que mais gastam
 - Funcionários com maior faturamento
 
 ---
 
-## 🎯 Objetivo Profissional
+##  Objetivo Profissional
 Este projeto faz parte do meu portfólio de estudos em banco de dados, com foco em oportunidades de **estágio ou posição júnior** na área de desenvolvimento, back-end ou dados.
 
 ---
 
-## 📎 Autor
+##  Autor
 Projeto desenvolvido por **Cainã Barros do Nascimento**
