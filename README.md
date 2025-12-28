@@ -6,7 +6,7 @@ O objetivo é demonstrar conhecimentos sólidos em **modelagem de dados**, **int
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - MySQL 9.1.0
 - MySQL Workbench
 - WAMP Server
